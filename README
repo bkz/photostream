@@ -1,0 +1,13 @@
+Simple utility which will organize a folder of *.jpg photos renaming them using
+a senseable 0001.jpg, 0002.jpg, etc, schema using their creation data as the
+sort order.
+
+You'll most likely want to use this for a folder where you drop photos from
+different camera sources, i.e. you might go on vacation and use your iPhone for
+snapshots and a DLSR for more serious photography. Using this script you can
+simply drop everything into a single folder and end up with a stream of photos.
+
+Installation:
+
+  Reqiures Python 2.6+ and the exiftool package (MacPorts = p5-image-exiftool,
+  Debian = libimage-exiftool-perl).
