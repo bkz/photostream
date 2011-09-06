@@ -9,5 +9,6 @@ simply drop everything into a single folder and end up with a stream of photos.
 
 Installation:
 
-  Reqiures Python 2.6+ and the exiftool package (MacPorts = p5-image-exiftool,
-  Debian = libimage-exiftool-perl).
+  Reqiures Python 2.6+ and the exiftool package:
+    MacPorts -> p5-image-exiftool
+    Debian   -> libimage-exiftool-perl
